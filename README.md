@@ -9,3 +9,7 @@ These changes are done to check what the merger Head is,
 This other changes will be done to see the difference between the staging Area
 
 ## At the moment the changes habe been staged. 
+
+#Diff modifications 
+##Difference between different files
+
